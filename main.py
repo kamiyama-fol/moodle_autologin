@@ -59,8 +59,6 @@ def main():
     input("テストが完了したら Enter を押してください...")
     return 0
 
-def 
-
 if __name__ == '__main__':
     import doctest
     doctest.testmod
